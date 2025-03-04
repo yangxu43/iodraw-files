@@ -64,7 +64,7 @@
           <mxGeometry x="398" y="350" width="185" height="49" as="geometry" />
         </mxCell>
         <mxCell id="3gGyGgoicXIF5EIdDOQK-8" value="参数设置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="437" y="649" width="125" height="49" as="geometry" />
+          <mxGeometry x="428" y="590" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="3gGyGgoicXIF5EIdDOQK-9" value="截断能" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="210" y="747" width="109" height="49" as="geometry" />
