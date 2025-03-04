@@ -72,22 +72,22 @@
         <mxCell id="3gGyGgoicXIF5EIdDOQK-13" value="设置任务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="980" y="747" width="125" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="3gGyGgoicXIF5EIdDOQK-14" value="单点能" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="3gGyGgoicXIF5EIdDOQK-14" value="单点能" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="360" y="880" width="108" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="3gGyGgoicXIF5EIdDOQK-15" value="几何优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="3gGyGgoicXIF5EIdDOQK-15" value="几何优化" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="518" y="880" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="3gGyGgoicXIF5EIdDOQK-16" value="弹性常数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="3gGyGgoicXIF5EIdDOQK-16" value="弹性常数" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="692" y="880" width="125" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="3gGyGgoicXIF5EIdDOQK-17" value="电子结构" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="3gGyGgoicXIF5EIdDOQK-17" value="电子结构" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="867" y="880" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="3gGyGgoicXIF5EIdDOQK-18" value="表面能" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="3gGyGgoicXIF5EIdDOQK-18" value="表面能" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1041" y="880" width="108" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="3gGyGgoicXIF5EIdDOQK-19" value="电子功函数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="3gGyGgoicXIF5EIdDOQK-19" value="电子功函数" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1199" y="880" width="141" height="49" as="geometry" />
         </mxCell>
         <mxCell id="3gGyGgoicXIF5EIdDOQK-20" value="提交计算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -96,18 +96,9 @@
         <mxCell id="3gGyGgoicXIF5EIdDOQK-21" value="分析结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1389" y="979" width="125" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="3gGyGgoicXIF5EIdDOQK-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="3gGyGgoicXIF5EIdDOQK-20" target="3gGyGgoicXIF5EIdDOQK-21">
+        <mxCell id="3gGyGgoicXIF5EIdDOQK-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=24;" edge="1" parent="1" source="3gGyGgoicXIF5EIdDOQK-20" target="3gGyGgoicXIF5EIdDOQK-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3gGyGgoicXIF5EIdDOQK-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;shadow=0;endArrow=blockThin;endFill=1;jettySize=auto;orthogonalLoop=1;strokeWidth=3;fontFamily=Helvetica;fontSize=18;align=center;shape=flexArrow;strokeColor=none;fillColor=#0066CC;endWidth=16;endSize=5.42;width=8;sourcePerimeterSpacing=-2;gradientColor=#D4E1F5;fontColor=#4D4D4D;" edge="1" parent="1">
-          <mxGeometry x="313.32500000000005" y="455.53333333333336" as="geometry">
-            <mxPoint x="-193.974285714286" y="659.62" as="sourcePoint" />
-            <mxPoint x="144" y="650" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-194" y="650" />
-            </Array>
           </mxGeometry>
         </mxCell>
       </root>
