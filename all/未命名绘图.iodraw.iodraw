@@ -105,7 +105,7 @@
           <mxGeometry x="642" y="134.67000000000004" width="210" height="74.67" as="geometry" />
         </mxCell>
         <mxCell id="3gGyGgoicXIF5EIdDOQK-45" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;单点能&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=#D4E1F5;gradientColor=#ffffff;fontFamily=Helvetica;fontSize=24;align=center;strokeColor=#4D9900;gradientDirection=west;fontColor=#4D4D4D;" vertex="1" parent="1">
-          <mxGeometry x="824" y="275.33000000000004" width="210" height="74.67" as="geometry" />
+          <mxGeometry x="-90" y="639" width="210" height="74.67" as="geometry" />
         </mxCell>
         <mxCell id="3gGyGgoicXIF5EIdDOQK-46" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;表面能&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=#D4E1F5;gradientColor=#ffffff;fontFamily=Helvetica;fontSize=24;align=center;strokeColor=#4D9900;gradientDirection=west;fontColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="1130" y="259.34" width="210" height="74.67" as="geometry" />
@@ -126,7 +126,7 @@
           <mxGeometry x="-190" y="217.33" width="80" height="340" as="geometry" />
         </mxCell>
         <mxCell id="3gGyGgoicXIF5EIdDOQK-54" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;shadow=0;strokeColor=#0066cc;strokeWidth=8;fontFamily=Helvetica;fontSize=24;fontColor=#4D4D4D;fillColor=#D4E1F5;gradientColor=#ffffff;gradientDirection=west;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="597.34" width="80" height="340" as="geometry" />
+          <mxGeometry x="-190" y="660" width="80" height="397.34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
