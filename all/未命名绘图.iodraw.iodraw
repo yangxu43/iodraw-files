@@ -32,6 +32,9 @@
           <mxGeometry x="271.32500000000005" y="438.53333333333336" as="geometry">
             <mxPoint x="283.32500000000005" y="398.53333333333336" as="sourcePoint" />
             <mxPoint x="290.80357142857144" y="430.88888888888897" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-285" y="510" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TZSDHcv375y_gvkYPDKj-12" value="Transpiration" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=#D4E1F5;gradientColor=#ffffff;fontFamily=Helvetica;fontSize=24;align=center;strokeColor=#4D9900;gradientDirection=west;fontColor=#4D4D4D;" parent="1" vertex="1">
