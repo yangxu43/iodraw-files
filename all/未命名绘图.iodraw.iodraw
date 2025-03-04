@@ -57,18 +57,6 @@
         <mxCell id="3gGyGgoicXIF5EIdDOQK-8" value="参数设置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="428" y="590" width="125" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="3gGyGgoicXIF5EIdDOQK-9" value="截断能" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="670" y="410" width="109" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="3gGyGgoicXIF5EIdDOQK-10" value="k 点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="829" y="410" width="89" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="3gGyGgoicXIF5EIdDOQK-11" value="布里渊区" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="968" y="410" width="124" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="3gGyGgoicXIF5EIdDOQK-12" value="其它参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1142" y="410" width="125" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="3gGyGgoicXIF5EIdDOQK-13" value="设置任务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="980" y="747" width="125" height="49" as="geometry" />
         </mxCell>
