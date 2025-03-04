@@ -16,7 +16,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TZSDHcv375y_gvkYPDKj-7" value="Condensation&lt;br&gt;in clouds" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=#D4E1F5;gradientColor=#ffffff;fontFamily=Helvetica;fontSize=24;align=center;strokeColor=#4D9900;gradientDirection=west;fontColor=#4D4D4D;" parent="1" vertex="1">
+        <mxCell id="TZSDHcv375y_gvkYPDKj-7" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12px;&quot;&gt;建立 Mg-xDy 模型&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=#D4E1F5;gradientColor=#ffffff;fontFamily=Helvetica;fontSize=24;align=center;strokeColor=#4D9900;gradientDirection=west;fontColor=#4D4D4D;" parent="1" vertex="1">
           <mxGeometry x="-390" y="117.66" width="210" height="74.67" as="geometry" />
         </mxCell>
         <mxCell id="TZSDHcv375y_gvkYPDKj-8" value="Precipitation" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=#D4E1F5;gradientColor=#ffffff;fontFamily=Helvetica;fontSize=24;align=center;strokeColor=#4D9900;gradientDirection=west;fontColor=#4D4D4D;" parent="1" vertex="1">
