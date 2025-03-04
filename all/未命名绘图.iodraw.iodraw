@@ -76,7 +76,7 @@
           <mxGeometry x="682" y="747" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="3gGyGgoicXIF5EIdDOQK-13" value="设置任务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="856" y="747" width="125" height="49" as="geometry" />
+          <mxGeometry x="980" y="747" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="3gGyGgoicXIF5EIdDOQK-14" value="单点能" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="280" y="846" width="108" height="49" as="geometry" />
