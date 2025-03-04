@@ -123,7 +123,7 @@
           <mxGeometry x="890" y="60.00000000000006" width="210" height="74.67" as="geometry" />
         </mxCell>
         <mxCell id="3gGyGgoicXIF5EIdDOQK-51" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;shadow=0;strokeColor=#000000;strokeWidth=2;fontFamily=Helvetica;fontSize=24;fontColor=#4D4D4D;fillColor=#D4E1F5;gradientColor=#ffffff;gradientDirection=west;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="293.67" width="70" height="187.33" as="geometry" />
+          <mxGeometry x="-190" y="280" width="80" height="221" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
