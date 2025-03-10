@@ -31,6 +31,9 @@
         <mxCell id="_ly26avsZ3LlTu-NEJlB-11" value="其他参数: 计算电子结构、表面能等所需的补充参数" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="530" y="959" width="254" height="84" as="geometry" />
         </mxCell>
+        <mxCell id="_ly26avsZ3LlTu-NEJlB-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ly26avsZ3LlTu-NEJlB-12" target="_ly26avsZ3LlTu-NEJlB-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-12" value="设置任务" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="230" y="600" width="125" height="49" as="geometry" />
         </mxCell>
@@ -212,9 +215,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-120" y="1070" as="sourcePoint" />
             <mxPoint x="-70" y="1020" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1050" y="850" />
-            </Array>
           </mxGeometry>
         </mxCell>
       </root>
