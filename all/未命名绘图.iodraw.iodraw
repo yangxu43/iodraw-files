@@ -67,7 +67,7 @@
         <mxCell id="_ly26avsZ3LlTu-NEJlB-22" value="浸泡实验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="610" y="1678" width="125" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="_ly26avsZ3LlTu-NEJlB-23" value="电化学实验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="_ly26avsZ3LlTu-NEJlB-23" value="电化学实验" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="419" y="1678" width="141" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-24" value="实验数据分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -222,7 +222,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_ly26avsZ3LlTu-NEJlB-50" value="验证计算" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.09;entryX=0.33;entryY=1;rounded=0;" edge="1" parent="1" source="_ly26avsZ3LlTu-NEJlB-24" target="_ly26avsZ3LlTu-NEJlB-19">
+        <mxCell id="_ly26avsZ3LlTu-NEJlB-50" value="验证计算" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.09;entryX=0.33;entryY=1;rounded=0;fontSize=12;" edge="1" parent="1" source="_ly26avsZ3LlTu-NEJlB-24" target="_ly26avsZ3LlTu-NEJlB-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="384" y="1752" />
