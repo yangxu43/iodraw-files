@@ -7,7 +7,7 @@
         <mxCell id="_ly26avsZ3LlTu-NEJlB-3" value="第一性原理计算" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="177" y="162" width="173" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="_ly26avsZ3LlTu-NEJlB-4" value="实验测试与分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="_ly26avsZ3LlTu-NEJlB-4" value="实验测试与分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="900" y="158" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-5" value="建立Mg-xTb模型" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
@@ -184,7 +184,7 @@
         <mxCell id="_ly26avsZ3LlTu-NEJlB-54" value="相互指导验证" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="460" y="158" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_ly26avsZ3LlTu-NEJlB-2" value="稀土元素Tb对镁合金力学性能和腐蚀性能的影响" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="_ly26avsZ3LlTu-NEJlB-2" value="稀土元素Tb对镁合金力学性能和腐蚀性能的影响" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="391" y="-50" width="264" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-56" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" target="_ly26avsZ3LlTu-NEJlB-20">
