@@ -50,7 +50,7 @@
           <mxGeometry x="-200" y="857" width="253" height="84" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-18" value="提交计算" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="175" y="950" width="126" height="49" as="geometry" />
+          <mxGeometry x="191.5" y="950" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-19" value="分析计算结果" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="159.5" y="1169" width="158" height="49" as="geometry" />
@@ -114,9 +114,7 @@
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=2;exitDx=0;exitDy=0;" edge="1" parent="1" source="_ly26avsZ3LlTu-NEJlB-6" target="_ly26avsZ3LlTu-NEJlB-12">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="270" y="540" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-36" value="" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_ly26avsZ3LlTu-NEJlB-13" target="_ly26avsZ3LlTu-NEJlB-14">
