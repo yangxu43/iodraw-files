@@ -53,7 +53,7 @@
           <mxGeometry x="740" y="1930" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-19" value="分析计算结果" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="192" y="1150" width="158" height="49" as="geometry" />
+          <mxGeometry x="194" y="1169" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-20" value="制备Mg-xTb合金试样" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="891.5" y="649" width="208" height="49" as="geometry" />
@@ -149,8 +149,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_ly26avsZ3LlTu-NEJlB-50" value="验证计算" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0;rounded=0;fontSize=17;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;exitDx=0;exitDy=0;" edge="1" parent="1" source="_ly26avsZ3LlTu-NEJlB-24" target="_ly26avsZ3LlTu-NEJlB-19">
+        <mxCell id="_ly26avsZ3LlTu-NEJlB-50" value="验证计算" style="curved=1;startArrow=none;endArrow=block;rounded=0;fontSize=17;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" target="_ly26avsZ3LlTu-NEJlB-19">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="940" y="1194" as="sourcePoint" />
             <mxPoint x="330" y="1700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
