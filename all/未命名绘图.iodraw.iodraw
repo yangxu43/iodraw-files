@@ -215,13 +215,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_ly26avsZ3LlTu-NEJlB-49" value="指导实验" style="curved=1;startArrow=none;endArrow=block;exitX=0.67;exitY=1;entryX=0.28;entryY=0;rounded=0;fontSize=13;" edge="1" parent="1" source="_ly26avsZ3LlTu-NEJlB-19" target="_ly26avsZ3LlTu-NEJlB-20">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="520" y="1519" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-50" value="验证计算" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.09;entryX=0.33;entryY=1;rounded=0;fontSize=12;" edge="1" parent="1" source="_ly26avsZ3LlTu-NEJlB-24" target="_ly26avsZ3LlTu-NEJlB-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
