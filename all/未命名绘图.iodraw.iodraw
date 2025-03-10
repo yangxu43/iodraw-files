@@ -32,7 +32,7 @@
           <mxGeometry x="530" y="959" width="254" height="84" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-12" value="设置任务" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="202" y="647" width="125" height="49" as="geometry" />
+          <mxGeometry x="230" y="600" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-13" value="几何优化: 通过优化晶格常数和内部原子位置, 得到最低能量结构" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="134.5" y="786.5" width="260" height="83.5" as="geometry" />
@@ -214,8 +214,8 @@
             <mxPoint x="-70" y="1020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_ly26avsZ3LlTu-NEJlB-68" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="440" y="403" width="20" height="550" as="geometry" />
+        <mxCell id="_ly26avsZ3LlTu-NEJlB-68" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=6;" vertex="1" parent="1">
+          <mxGeometry x="480" y="430" width="20" height="550" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
