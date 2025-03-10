@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="qHpgaLj29DNqVN0OA2fq">
-    <mxGraphModel dx="3679" dy="2663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2505" dy="2048" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,13 +41,13 @@
           <mxGeometry x="-149" y="521" width="238" height="67" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-15" value="电子结构: 计算态密度  与能带, 分析电子运动规律" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-157" y="655" width="248" height="67" as="geometry" />
+          <mxGeometry x="-153.5" y="656" width="248" height="67" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-16" value="表面能: 不同晶面能量差, 评估晶面稳定性" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-152" y="789" width="238" height="67" as="geometry" />
+          <mxGeometry x="-148.5" y="790" width="238" height="67" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-17" value="电子功函数: 比较第二相与基体的功函数差, 预测腐蚀电化学行为" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="915" width="253" height="84" as="geometry" />
+          <mxGeometry x="-156.5" y="916" width="253" height="84" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-18" value="提交计算" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="202" y="950" width="126" height="49" as="geometry" />
