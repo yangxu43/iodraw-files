@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="qHpgaLj29DNqVN0OA2fq">
-    <mxGraphModel dx="2037" dy="2236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4753" dy="3659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,15 +30,6 @@
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-11" value="其他参数: 计算电子结构、表面能等所需的补充参数" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="530" y="959" width="254" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="_ly26avsZ3LlTu-NEJlB-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ly26avsZ3LlTu-NEJlB-12" target="_ly26avsZ3LlTu-NEJlB-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="355" y="630" />
-              <mxPoint x="440" y="630" />
-              <mxPoint x="440" y="421" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-12" value="设置任务" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="230" y="600" width="125" height="49" as="geometry" />
