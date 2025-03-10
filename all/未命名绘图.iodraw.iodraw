@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="qHpgaLj29DNqVN0OA2fq">
-    <mxGraphModel dx="2037" dy="2236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2864" dy="2236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,19 +17,19 @@
           <mxGeometry x="202" y="385" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-7" value="截断能: 控制波函数展开的能量范围，影响计算精度和计算量" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="21" y="507" width="253" height="84" as="geometry" />
+          <mxGeometry x="-119" y="490" width="253" height="84" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-8" value="k 点: 采样布里渊区，决定能带结构计算的精度" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="21" y="664" width="253" height="84" as="geometry" />
+          <mxGeometry x="-119" y="647" width="253" height="84" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-9" value="布里渊区: 确定电子扫描路径以计算态密度和能带结构" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="20" y="798" width="254" height="84" as="geometry" />
+          <mxGeometry x="-120" y="781" width="254" height="84" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-10" value="几何优化参数: 通过能量最小化得到晶体最稳定结构" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="20" y="932" width="254" height="84" as="geometry" />
+          <mxGeometry x="-120" y="915" width="254" height="84" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-11" value="其他参数: 计算电子结构、表面能等所需的补充参数" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1066" width="254" height="84" as="geometry" />
+          <mxGeometry x="-120" y="1049" width="254" height="84" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-12" value="设置任务" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="554.5" y="507" width="125" height="49" as="geometry" />
@@ -72,18 +72,12 @@
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="_ly26avsZ3LlTu-NEJlB-2">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="210" y="10" />
-            </Array>
             <mxPoint x="391.00306122448967" y="-20" as="sourcePoint" />
             <mxPoint x="250" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-26" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.546;entryY=-0.102;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="_ly26avsZ3LlTu-NEJlB-2" target="_ly26avsZ3LlTu-NEJlB-4">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1020" y="20" />
-            </Array>
             <mxPoint x="920" y="-20" as="sourcePoint" />
             <mxPoint x="731" y="137" as="targetPoint" />
           </mxGeometry>
