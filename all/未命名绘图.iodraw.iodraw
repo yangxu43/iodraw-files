@@ -28,14 +28,19 @@
         <mxCell id="_ly26avsZ3LlTu-NEJlB-10" value="几何优化参数: 通过能量最小化得到晶体最稳定结构" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="530" y="825" width="254" height="84" as="geometry" />
         </mxCell>
+        <mxCell id="_ly26avsZ3LlTu-NEJlB-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_ly26avsZ3LlTu-NEJlB-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-11" value="其他参数: 计算电子结构、表面能等所需的补充参数" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="530" y="959" width="254" height="84" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ly26avsZ3LlTu-NEJlB-12" target="_ly26avsZ3LlTu-NEJlB-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="355" y="890" />
-              <mxPoint x="443" y="890" />
+              <mxPoint x="355" y="630" />
+              <mxPoint x="443" y="630" />
               <mxPoint x="443" y="421" />
             </Array>
           </mxGeometry>
