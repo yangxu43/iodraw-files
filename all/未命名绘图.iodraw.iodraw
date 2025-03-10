@@ -19,7 +19,7 @@
         <mxCell id="_ly26avsZ3LlTu-NEJlB-7" value="截断能: 控制波函数展开的能量范围，影响计算精度和计算量" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="21" y="507" width="253" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="_ly26avsZ3LlTu-NEJlB-8" value="k 点: 采样布里渊区，决定能带结构计算的精度" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="_ly26avsZ3LlTu-NEJlB-8" value="k 点: 采样布里渊区，决定能带结构计算的精度" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="21" y="664" width="253" height="84" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-9" value="布里渊区: 确定电子扫描路径以计算态密度和能带结构" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
@@ -132,7 +132,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_ly26avsZ3LlTu-NEJlB-35" value="包含" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=12;" edge="1" parent="1" source="_ly26avsZ3LlTu-NEJlB-12" target="_ly26avsZ3LlTu-NEJlB-13">
+        <mxCell id="_ly26avsZ3LlTu-NEJlB-35" value="包含" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=18;" edge="1" parent="1" source="_ly26avsZ3LlTu-NEJlB-12" target="_ly26avsZ3LlTu-NEJlB-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
