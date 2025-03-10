@@ -208,9 +208,6 @@
             <mxPoint x="-70" y="1020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_ly26avsZ3LlTu-NEJlB-74" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="371" width="60" height="569" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
