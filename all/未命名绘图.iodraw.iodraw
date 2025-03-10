@@ -18,8 +18,8 @@
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="344" y="511.5" as="sourcePoint" />
-            <mxPoint x="444" y="931" as="targetPoint" />
+            <mxPoint x="280" y="511.5" as="sourcePoint" />
+            <mxPoint x="380" y="931" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-6" value="参数设置" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
