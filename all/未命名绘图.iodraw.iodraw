@@ -167,15 +167,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_ly26avsZ3LlTu-NEJlB-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.55;entryY=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="690" y="1478" />
-            </Array>
-            <mxPoint x="783" y="170" as="sourcePoint" />
-            <mxPoint x="763.4000000000001" y="1393" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.95;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_ly26avsZ3LlTu-NEJlB-20" target="_ly26avsZ3LlTu-NEJlB-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -237,6 +228,12 @@
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-2" value="稀土元素Tb对镁合金力学性能和腐蚀性能的影响" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="391" y="-50" width="264" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_ly26avsZ3LlTu-NEJlB-56" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="210" as="sourcePoint" />
+            <mxPoint x="440" y="160" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
