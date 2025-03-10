@@ -17,37 +17,37 @@
           <mxGeometry x="202" y="385" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-7" value="截断能: 控制波函数展开的能量范围，影响计算精度和计算量" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="531" y="400" width="253" height="84" as="geometry" />
+          <mxGeometry x="431" y="330" width="253" height="84" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-8" value="k 点: 采样布里渊区，决定能带结构计算的精度" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="531" y="557" width="253" height="84" as="geometry" />
+          <mxGeometry x="431" y="487" width="253" height="84" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-9" value="布里渊区: 确定电子扫描路径以计算态密度和能带结构" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="530" y="691" width="254" height="84" as="geometry" />
+          <mxGeometry x="430" y="621" width="254" height="84" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-10" value="几何优化参数: 通过能量最小化得到晶体最稳定结构" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="530" y="825" width="254" height="84" as="geometry" />
+          <mxGeometry x="430" y="755" width="254" height="84" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-11" value="其他参数: 计算电子结构、表面能等所需的补充参数" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="530" y="959" width="254" height="84" as="geometry" />
+          <mxGeometry x="430" y="889" width="254" height="84" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-12" value="设置任务" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="230" y="600" width="125" height="49" as="geometry" />
+          <mxGeometry x="210" y="649" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-13" value="几何优化: 通过优化晶格常数和内部原子位置, 得到最低能量结构" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="470" width="260" height="83.5" as="geometry" />
+          <mxGeometry x="-200" y="320" width="260" height="83.5" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-14" value="弹性常数: 计算弹性模量, 预测材料的力学性能" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-162" y="613" width="238" height="67" as="geometry" />
+          <mxGeometry x="-192" y="463" width="238" height="67" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-15" value="电子结构: 计算态密度  与能带, 分析电子运动规律" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-167" y="747" width="248" height="67" as="geometry" />
+          <mxGeometry x="-197" y="597" width="248" height="67" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-16" value="表面能: 不同晶面能量差, 评估晶面稳定性" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-162" y="881" width="238" height="67" as="geometry" />
+          <mxGeometry x="-192" y="731" width="238" height="67" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-17" value="电子功函数: 比较第二相与基体的功函数差, 预测腐蚀电化学行为" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="1007" width="253" height="84" as="geometry" />
+          <mxGeometry x="-200" y="857" width="253" height="84" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-18" value="提交计算" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="740" y="1930" width="126" height="49" as="geometry" />
