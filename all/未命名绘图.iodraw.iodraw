@@ -167,7 +167,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_ly26avsZ3LlTu-NEJlB-50" value="验证计算" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.09;rounded=0;fontSize=17;" edge="1" parent="1" source="_ly26avsZ3LlTu-NEJlB-24">
+        <mxCell id="_ly26avsZ3LlTu-NEJlB-50" value="验证计算" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.09;rounded=0;fontSize=17;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="_ly26avsZ3LlTu-NEJlB-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="384" y="1752" />
