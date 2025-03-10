@@ -35,9 +35,6 @@
         <mxCell id="_ly26avsZ3LlTu-NEJlB-8" value="k 点: 采样布里渊区，决定能带结构计算的精度" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="431" y="487" width="253" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="_ly26avsZ3LlTu-NEJlB-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_ly26avsZ3LlTu-NEJlB-9" target="_ly26avsZ3LlTu-NEJlB-77">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-9" value="布里渊区: 确定电子扫描路径以计算态密度和能带结构" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="430" y="621" width="254" height="84" as="geometry" />
         </mxCell>
@@ -104,26 +101,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;strokeWidth=2;" edge="1" parent="1" source="_ly26avsZ3LlTu-NEJlB-5" target="_ly26avsZ3LlTu-NEJlB-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_ly26avsZ3LlTu-NEJlB-30" value="" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_ly26avsZ3LlTu-NEJlB-7" target="_ly26avsZ3LlTu-NEJlB-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_ly26avsZ3LlTu-NEJlB-31" value="" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_ly26avsZ3LlTu-NEJlB-8" target="_ly26avsZ3LlTu-NEJlB-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_ly26avsZ3LlTu-NEJlB-32" value="" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_ly26avsZ3LlTu-NEJlB-9" target="_ly26avsZ3LlTu-NEJlB-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_ly26avsZ3LlTu-NEJlB-33" value="" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_ly26avsZ3LlTu-NEJlB-10" target="_ly26avsZ3LlTu-NEJlB-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
@@ -223,9 +200,6 @@
             <mxPoint x="-120" y="1070" as="sourcePoint" />
             <mxPoint x="-70" y="1020" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="_ly26avsZ3LlTu-NEJlB-77" value="布里渊区: 确定电子扫描路径以计算态密度和能带结构" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="430" y="785" width="254" height="84" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
