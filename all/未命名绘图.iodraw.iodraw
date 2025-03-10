@@ -25,10 +25,10 @@
         <mxCell id="_ly26avsZ3LlTu-NEJlB-9" value="布里渊区: 确定电子扫描路径以计算态密度和能带结构" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="20" y="798" width="254" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="_ly26avsZ3LlTu-NEJlB-10" value="几何优化参数: 通过能量最小化得到晶体最稳定结构" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="_ly26avsZ3LlTu-NEJlB-10" value="几何优化参数: 通过能量最小化得到晶体最稳定结构" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="20" y="932" width="254" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="_ly26avsZ3LlTu-NEJlB-11" value="其他参数: 计算电子结构、表面能等所需的补充参数" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="_ly26avsZ3LlTu-NEJlB-11" value="其他参数: 计算电子结构、表面能等所需的补充参数" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="20" y="1066" width="254" height="84" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-12" value="设置任务" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
@@ -46,10 +46,10 @@
         <mxCell id="_ly26avsZ3LlTu-NEJlB-16" value="表面能: 不同晶面能量差, 评估晶面稳定性" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="332" y="1075" width="238" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="_ly26avsZ3LlTu-NEJlB-17" value="电子功函数: 比较第二相与基体的功函数差, 预测腐蚀电化学行为" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="_ly26avsZ3LlTu-NEJlB-17" value="电子功函数: 比较第二相与基体的功函数差, 预测腐蚀电化学行为" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="324" y="1201" width="253" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="_ly26avsZ3LlTu-NEJlB-18" value="提交计算" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="_ly26avsZ3LlTu-NEJlB-18" value="提交计算" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="388" y="1335" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-19" value="分析计算结果" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
