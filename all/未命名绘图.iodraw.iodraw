@@ -91,7 +91,7 @@
           <mxGeometry x="1096" y="973" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-22" value="浸泡实验" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="943" y="970" width="125" height="49" as="geometry" />
+          <mxGeometry x="946" y="973" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-23" value="电化学实验" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="770" y="973" width="141" height="49" as="geometry" />
@@ -195,6 +195,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-120" y="1070" as="sourcePoint" />
             <mxPoint x="-70" y="1020" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="987" y="440" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-85" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="_ly26avsZ3LlTu-NEJlB-14">
@@ -225,13 +228,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="797" as="sourcePoint" />
             <mxPoint x="240" y="760" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_ly26avsZ3LlTu-NEJlB-93" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="-130" y="840" as="sourcePoint" />
-            <mxPoint x="-50" y="840" as="targetPoint" />
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
