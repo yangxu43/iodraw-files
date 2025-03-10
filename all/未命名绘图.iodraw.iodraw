@@ -214,7 +214,7 @@
             <mxPoint x="-70" y="1020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_ly26avsZ3LlTu-NEJlB-68" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="_ly26avsZ3LlTu-NEJlB-68" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=3;size=0.4;" vertex="1" parent="1">
           <mxGeometry x="450" y="389" width="50" height="570" as="geometry" />
         </mxCell>
       </root>
