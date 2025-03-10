@@ -193,10 +193,10 @@
             <mxPoint x="877" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_ly26avsZ3LlTu-NEJlB-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.456;entryY=-0.102;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_ly26avsZ3LlTu-NEJlB-23" target="_ly26avsZ3LlTu-NEJlB-24">
+        <mxCell id="_ly26avsZ3LlTu-NEJlB-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.456;entryY=-0.102;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="655" y="1750" as="sourcePoint" />
-            <mxPoint x="705" y="1700" as="targetPoint" />
+            <mxPoint x="590" y="1630" as="sourcePoint" />
+            <mxPoint x="767.5479999999998" y="1786.002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-58" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.518;entryY=-0.122;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_ly26avsZ3LlTu-NEJlB-20" target="_ly26avsZ3LlTu-NEJlB-23">
@@ -227,9 +227,7 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1010" y="1740" as="sourcePoint" />
             <mxPoint x="820" y="1790" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="880" y="1710" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
