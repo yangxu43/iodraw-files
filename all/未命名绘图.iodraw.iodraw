@@ -32,7 +32,7 @@
           <mxGeometry x="20" y="1066" width="254" height="84" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-12" value="设置任务" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="388" y="524" width="125" height="49" as="geometry" />
+          <mxGeometry x="524.5" y="524.5" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-13" value="几何优化: 通过优化晶格常数和内部原子位置, 得到最低能量结构" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="460" y="664" width="254" height="84" as="geometry" />
@@ -50,10 +50,10 @@
           <mxGeometry x="460" y="1201" width="253" height="84" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-18" value="提交计算" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="388" y="1335" width="126" height="49" as="geometry" />
+          <mxGeometry x="523" y="1370" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-19" value="分析计算结果" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="372" y="1434" width="158" height="49" as="geometry" />
+          <mxGeometry x="507" y="1469" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-20" value="制备Mg-xTb合金试样" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="898" y="1450" width="208" height="49" as="geometry" />
