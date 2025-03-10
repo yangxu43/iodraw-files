@@ -31,7 +31,7 @@
         <mxCell id="_ly26avsZ3LlTu-NEJlB-11" value="其他参数: 计算电子结构、表面能等所需的补充参数" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="20" y="1066" width="254" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="_ly26avsZ3LlTu-NEJlB-12" value="设置任务" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="_ly26avsZ3LlTu-NEJlB-12" value="设置任务" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="388" y="524" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-13" value="几何优化: 通过优化晶格常数和内部原子位置, 得到最低能量结构" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
@@ -98,7 +98,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_ly26avsZ3LlTu-NEJlB-29" value="包含" style="curved=1;startArrow=none;endArrow=block;exitX=0.12;exitY=0.99;entryX=0.5;entryY=0;rounded=0;fontSize=14;" edge="1" parent="1" source="_ly26avsZ3LlTu-NEJlB-6" target="_ly26avsZ3LlTu-NEJlB-7">
+        <mxCell id="_ly26avsZ3LlTu-NEJlB-29" value="包含" style="curved=1;startArrow=none;endArrow=block;exitX=0.12;exitY=0.99;entryX=0.5;entryY=0;rounded=0;fontSize=18;" edge="1" parent="1" source="_ly26avsZ3LlTu-NEJlB-6" target="_ly26avsZ3LlTu-NEJlB-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="147" y="470" />
