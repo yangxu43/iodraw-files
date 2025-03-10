@@ -70,13 +70,13 @@
         <mxCell id="_ly26avsZ3LlTu-NEJlB-24" value="实验数据分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="690" y="1800" width="158" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="_ly26avsZ3LlTu-NEJlB-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="_ly26avsZ3LlTu-NEJlB-2">
+        <mxCell id="_ly26avsZ3LlTu-NEJlB-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="_ly26avsZ3LlTu-NEJlB-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="391.00306122448967" y="-20" as="sourcePoint" />
             <mxPoint x="250" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_ly26avsZ3LlTu-NEJlB-26" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.546;entryY=-0.102;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_ly26avsZ3LlTu-NEJlB-2" target="_ly26avsZ3LlTu-NEJlB-4">
+        <mxCell id="_ly26avsZ3LlTu-NEJlB-26" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.546;entryY=-0.102;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="_ly26avsZ3LlTu-NEJlB-2" target="_ly26avsZ3LlTu-NEJlB-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="920" y="-20" as="sourcePoint" />
             <mxPoint x="731" y="137" as="targetPoint" />
@@ -92,7 +92,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_ly26avsZ3LlTu-NEJlB-29" value="包含" style="curved=1;startArrow=none;endArrow=block;exitX=0.12;exitY=0.99;entryX=0.5;entryY=0;rounded=0;fontSize=18;" edge="1" parent="1" source="_ly26avsZ3LlTu-NEJlB-6" target="_ly26avsZ3LlTu-NEJlB-7">
+        <mxCell id="_ly26avsZ3LlTu-NEJlB-29" value="包含" style="curved=1;startArrow=none;endArrow=block;exitX=0.12;exitY=0.99;entryX=0.5;entryY=0;rounded=0;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="_ly26avsZ3LlTu-NEJlB-6" target="_ly26avsZ3LlTu-NEJlB-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="147" y="470" />
@@ -119,7 +119,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_ly26avsZ3LlTu-NEJlB-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.91;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_ly26avsZ3LlTu-NEJlB-6" target="_ly26avsZ3LlTu-NEJlB-12">
+        <mxCell id="_ly26avsZ3LlTu-NEJlB-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.91;entryX=0.5;entryY=0;rounded=0;strokeWidth=2;" edge="1" parent="1" source="_ly26avsZ3LlTu-NEJlB-6" target="_ly26avsZ3LlTu-NEJlB-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="451" y="470" />
@@ -166,7 +166,7 @@
             <mxPoint x="330" y="1700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_ly26avsZ3LlTu-NEJlB-53" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ly26avsZ3LlTu-NEJlB-3" target="_ly26avsZ3LlTu-NEJlB-4">
+        <mxCell id="_ly26avsZ3LlTu-NEJlB-53" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="_ly26avsZ3LlTu-NEJlB-3" target="_ly26avsZ3LlTu-NEJlB-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="419" y="190" as="sourcePoint" />
             <mxPoint x="469" y="140" as="targetPoint" />
