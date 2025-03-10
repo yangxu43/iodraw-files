@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="qHpgaLj29DNqVN0OA2fq">
-    <mxGraphModel dx="3169" dy="2829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5704" dy="4157" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,7 +56,7 @@
           <mxGeometry x="372" y="1434" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-20" value="制备Mg-xTb合金试样" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1434" width="208" height="49" as="geometry" />
+          <mxGeometry x="632" y="1390" width="208" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-21" value="扫描电镜分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="868" y="1590" width="158" height="49" as="geometry" />
