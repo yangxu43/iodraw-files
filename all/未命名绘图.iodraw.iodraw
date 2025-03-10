@@ -32,7 +32,7 @@
           <mxGeometry x="430" y="889" width="254" height="84" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-12" value="设置任务" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="210" y="649" width="125" height="49" as="geometry" />
+          <mxGeometry x="176" y="656" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-13" value="几何优化: 通过优化晶格常数和内部原子位置, 得到最低能量结构" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-200" y="320" width="260" height="83.5" as="geometry" />
@@ -59,13 +59,13 @@
           <mxGeometry x="891.5" y="649" width="208" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-21" value="扫描电镜分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1083" y="1630" width="158" height="49" as="geometry" />
+          <mxGeometry x="1126" y="980" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-22" value="浸泡实验" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="933" y="1630" width="125" height="49" as="geometry" />
+          <mxGeometry x="976" y="980" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-23" value="电化学实验" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="757" y="1630" width="141" height="49" as="geometry" />
+          <mxGeometry x="800" y="980" width="141" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-24" value="实验数据分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="620" y="1820" width="158" height="49" as="geometry" />
