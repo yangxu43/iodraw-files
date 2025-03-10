@@ -68,7 +68,7 @@
           <mxGeometry x="542" y="1590" width="141" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-24" value="实验数据分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="720" y="1780" width="158" height="49" as="geometry" />
+          <mxGeometry x="718" y="1800" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=0.99;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -227,6 +227,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1010" y="1740" as="sourcePoint" />
             <mxPoint x="820" y="1760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="880" y="1710" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
