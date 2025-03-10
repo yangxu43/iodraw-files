@@ -184,7 +184,7 @@
         <mxCell id="_ly26avsZ3LlTu-NEJlB-54" value="相互指导验证" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="450" y="158" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_ly26avsZ3LlTu-NEJlB-2" value="稀土元素Tb对镁合金力学性能和腐蚀性能的影响" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="_ly26avsZ3LlTu-NEJlB-2" value="稀土元素Tb对镁合金力学性能和腐蚀性能的影响" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="391" y="-50" width="264" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-56" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.569;exitY=1.041;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ly26avsZ3LlTu-NEJlB-4" target="_ly26avsZ3LlTu-NEJlB-20">
