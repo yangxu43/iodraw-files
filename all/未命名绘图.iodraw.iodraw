@@ -61,10 +61,10 @@
         <mxCell id="_ly26avsZ3LlTu-NEJlB-20" value="制备Mg-xTb合金试样" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="528" y="1556" width="208" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="_ly26avsZ3LlTu-NEJlB-21" value="扫描电镜分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="_ly26avsZ3LlTu-NEJlB-21" value="扫描电镜分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="785" y="1678" width="158" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="_ly26avsZ3LlTu-NEJlB-22" value="浸泡实验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="_ly26avsZ3LlTu-NEJlB-22" value="浸泡实验" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="610" y="1678" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-23" value="电化学实验" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
