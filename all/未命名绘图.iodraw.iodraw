@@ -56,7 +56,7 @@
           <mxGeometry x="537" y="1451.5" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-20" value="制备Mg-xTb合金试样" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="898" y="1450" width="208" height="49" as="geometry" />
+          <mxGeometry x="900" y="1420" width="208" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-21" value="扫描电镜分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1083" y="1630" width="158" height="49" as="geometry" />
@@ -177,12 +177,6 @@
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-2" value="稀土元素Tb对镁合金力学性能和腐蚀性能的影响" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="520" y="-60" width="264" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="_ly26avsZ3LlTu-NEJlB-56" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="_ly26avsZ3LlTu-NEJlB-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="753" y="200" as="sourcePoint" />
-            <mxPoint x="1050" y="1300" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.348;exitY=0.98;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="_ly26avsZ3LlTu-NEJlB-23" target="_ly26avsZ3LlTu-NEJlB-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
