@@ -56,16 +56,16 @@
           <mxGeometry x="372" y="1434" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-20" value="制备Mg-xTb合金试样" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="948" y="1450" width="208" height="49" as="geometry" />
+          <mxGeometry x="898" y="1450" width="208" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-21" value="扫描电镜分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="916" y="1580" width="158" height="49" as="geometry" />
+          <mxGeometry x="1083" y="1630" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-22" value="浸泡实验" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="766" y="1580" width="125" height="49" as="geometry" />
+          <mxGeometry x="933" y="1630" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-23" value="电化学实验" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="590" y="1580" width="141" height="49" as="geometry" />
+          <mxGeometry x="757" y="1630" width="141" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-24" value="实验数据分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="718" y="1800" width="158" height="49" as="geometry" />
