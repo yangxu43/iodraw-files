@@ -167,11 +167,13 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_ly26avsZ3LlTu-NEJlB-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.55;entryY=0;rounded=0;" edge="1" parent="1" source="_ly26avsZ3LlTu-NEJlB-4" target="_ly26avsZ3LlTu-NEJlB-20">
+        <mxCell id="_ly26avsZ3LlTu-NEJlB-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.55;entryY=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="660" y="1519" />
+              <mxPoint x="690" y="1478" />
             </Array>
+            <mxPoint x="783" y="170" as="sourcePoint" />
+            <mxPoint x="763.4000000000001" y="1393" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.95;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_ly26avsZ3LlTu-NEJlB-20" target="_ly26avsZ3LlTu-NEJlB-21">
@@ -231,14 +233,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-54" value="相互指导验证" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="404" y="158" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_ly26avsZ3LlTu-NEJlB-55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.89;entryX=0.546;entryY=-0.102;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="_ly26avsZ3LlTu-NEJlB-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="504" y="57.299999999999955" as="sourcePoint" />
-            <mxPoint x="739" y="157" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="450" y="158" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_ly26avsZ3LlTu-NEJlB-2" value="稀土元素Tb对镁合金力学性能和腐蚀性能的影响" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="391" y="-50" width="264" height="70" as="geometry" />
